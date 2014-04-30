@@ -1,0 +1,667 @@
+﻿// English (en_US) Localization File By SackCastellon
+
+// Creative Tabs
+
+itemGroup.BetterWood=BetterWood
+itemGroup.BetterWood.vanilla=BetterWood - Vanilla
+itemGroup.BetterWood.bop=BetterWood - BoP
+itemGroup.BetterWood.ebxl=BetterWood - EBXL
+
+// Blocks
+
+tile.Bookshelf.Oak.name=Oak Bookshelf
+tile.Bookshelf.Spruce.name=Spruce Bookshelf
+tile.Bookshelf.Birch.name=Birch Bookshelf
+tile.Bookshelf.Jungle.name=Jungle Bookshelf
+tile.Bookshelf.Acacia.name=Acacia Bookshelf
+tile.Bookshelf.DarkOak.name=Dark Oak Bookshelf
+    
+tile.Fence.Oak.name=Oak Fence
+tile.Fence.Spruce.name=Spruce Fence
+tile.Fence.Birch.name=Birch Fence
+tile.Fence.Jungle.name=Jungle Fence
+tile.Fence.Acacia.name=Acacia Fence
+tile.Fence.DarkOak.name=Dark Oak Fence
+    
+tile.FenceGate.Oak.name=Oak Fence Gate
+tile.FenceGate.Spruce.name=Spruce Fence Gate
+tile.FenceGate.Birch.name=Birch Fence Gate
+tile.FenceGate.Jungle.name=Jungle Fence Gate
+tile.FenceGate.Acacia.name=Acacia Fence Gate
+tile.FenceGate.DarkOak.name=Dark Oak Fence Gate
+    
+tile.Button.Oak.name=Oak Button
+tile.Button.Spruce.name=Spruce Button
+tile.Button.Birch.name=Birch Button
+tile.Button.Jungle.name=Jungle Button
+tile.Button.Acacia.name=Acacia Button
+tile.Button.DarkOak.name=Dark Oak Button
+  
+tile.PressurePlate.Oak.name=Oak Pressure Plate
+tile.PressurePlate.Spruce.name=Spruce Pressure Plate
+tile.PressurePlate.Birch.name=Birch Pressure Plate
+tile.PressurePlate.Jungle.name=Jungle Pressure Plate
+tile.PressurePlate.Acacia.name=Acacia Pressure Plate
+tile.PressurePlate.DarkOak.name=Dark Oak Pressure Plate
+  
+tile.Lever.Oak.name=Oak Lever
+tile.Lever.Spruce.name=Spruce Lever
+tile.Lever.Birch.name=Birch Lever
+tile.Lever.Jungle.name=Jungle Lever
+tile.Lever.Acacia.name=Acacia Lever
+tile.Lever.DarkOak.name=Dark Oak Lever
+
+tile.Ladder.Oak.name=Oak Ladder
+tile.Ladder.Spruce.name=Spruce Ladder
+tile.Ladder.Birch.name=Birch Ladder
+tile.Ladder.Jungle.name=Jungle Ladder
+tile.Ladder.Acacia.name=Acacia Ladder
+tile.Ladder.DarkOak.name=Dark Oak Ladder
+  
+tile.Torch.Oak.name=Oak Torch
+tile.Torch.Spruce.name=Spruce Torch
+tile.Torch.Birch.name=Birch Torch
+tile.Torch.Jungle.name=Jungle Torch
+tile.Torch.Acacia.name=Acacia Torch
+tile.Torch.DarkOak.name=Dark Oak Torch
+
+tile.Door.Oak.name=Oak Door
+tile.Door.Spruce.name=Spruce Door
+tile.Door.Birch.name=Birch Door
+tile.Door.Jungle.name=Jungle Door
+tile.Door.Acacia.name=Acacia Door
+tile.Door.DarkOak.name=Dark Oak Door
+
+tile.Trapdoor.Oak.name=Oak Trapdoor
+tile.Trapdoor.Spruce.name=Spruce Trapdoor
+tile.Trapdoor.Birch.name=Birch Trapdoor
+tile.Trapdoor.Jungle.name=Jungle Trapdoor
+tile.Trapdoor.Acacia.name=Acacia Trapdoor
+tile.Trapdoor.DarkOak.name=Dark Oak Trapdoor
+
+
+// Items
+
+item.Stick.name=Stick
+
+item.Stick.Oak.name=Oak Stick
+item.Stick.Spruce.name=Spruce Stick
+item.Stick.Birch.name=Birch Stick
+item.Stick.Jungle.name=Jungle Stick
+item.Stick.Acacia.name=Acacia Stick
+item.Stick.DarkOak.name=Dark Oak Stick
+  
+item.Stick.EBXL.Acacia.name=Acacia Stick
+item.Stick.EBXL.BaldCypress.name=Bald Cypress Stick
+item.Stick.EBXL.Cypress.name=Cypres Stick
+item.Stick.EBXL.JapaneseMaple.name=Japanes Maple Stick
+item.Stick.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus Stick
+item.Stick.EBXL.Redwood.name=Redwood Stick
+item.Stick.EBXL.Sakura.name=Sakura Blossom Stick
+item.Stick.EBXL.Autumn.name=Autumn Stick
+item.Stick.EBXL.Fir.name=Fir Stick
+
+item.Bowl.name=Bowl
+  
+item.Bowl.Oak.name=Oak Bowl
+item.Bowl.Spruce.name=Spruce Bowl
+item.Bowl.Birch.name=Birch Bowl
+item.Bowl.Jungle.name=Jungle Bowl
+item.Bowl.Acacia.name=Acacia Bowl
+item.Bowl.DarkOak.name=Dark Oak Bowl
+  
+item.Bowl.EBXL.Acacia.name=Acacia Bowl
+item.Bowl.EBXL.BaldCypress.name=Bald Cypress Bowl
+item.Bowl.EBXL.Cypress.name=Cypres Bowl
+item.Bowl.EBXL.JapaneseMaple.name=Japanes Maple Bowl
+item.Bowl.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus Bowl
+item.Bowl.EBXL.Redwood.name=Redwood Bowl
+item.Bowl.EBXL.Sakura.name=Sakura Blossom Bowl
+item.Bowl.EBXL.Autumn.name=Autumn Bowl
+item.Bowl.EBXL.Fir.name=Fir Bowl
+
+item.Soup.name=Mushroom Stew
+  
+item.Soup.Oak.name=Oak Mushroom Stew
+item.Soup.Spruce.name=Spruce Mushroom Stew
+item.Soup.Birch.name=Birch Mushroom Stew
+item.Soup.Jungle.name=Jungle Mushroom Stew
+item.Soup.Acacia.name=Acacia Mushroom Stew
+item.Soup.DarkOak.name=Dark Oak Mushroom Stew
+  
+item.Soup.EBXL.Acacia.name=Acacia Mushroom Stew
+item.Soup.EBXL.BaldCypress.name=Bald Cypress Mushroom Stew
+item.Soup.EBXL.Cypress.name=Cypres Mushroom Stew
+item.Soup.EBXL.JapaneseMaple.name=Japanes Maple Mushroom Stew
+item.Soup.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus Mushroom Stew
+item.Soup.EBXL.Redwood.name=Redwood Mushroom Stew
+item.Soup.EBXL.Sakura.name=Sakura Blossom Mushroom Stew
+item.Soup.EBXL.Autumn.name=Autumn Mushroom Stew
+item.Soup.EBXL.Fir.name=Fir Mushroom Stew
+
+item.Arrow.name=Arrow
+  
+item.Arrow.Oak.name=Oak Arrow
+item.Arrow.Spruce.name=Spruce Arrow
+item.Arrow.Birch.name=Birch Arrow
+item.Arrow.Jungle.name=Jungle Arrow
+item.Arrow.Acacia.name=Acacia Arrow
+item.Arrow.DarkOak.name=Dark Oak Arrow
+  
+item.Arrow.EBXL.Acacia.name=Acacia Arrow
+item.Arrow.EBXL.BaldCypress.name=Bald Cypress Arrow
+item.Arrow.EBXL.Cypress.name=Cypres Arrow
+item.Arrow.EBXL.JapaneseMaple.name=Japanes Maple Arrow
+item.Arrow.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus Arrow
+item.Arrow.EBXL.Redwood.name=Redwood Arrow
+item.Arrow.EBXL.Sakura.name=Sakura Blossom Arrow
+item.Arrow.EBXL.Autumn.name=Autumn Arrow
+item.Arrow.EBXL.Fir.name=Fir Arrow
+
+item.Sign.name=Sign
+  
+item.Sign.Oak.name=Oak Sign
+item.Sign.Spruce.name=Spruce Sign
+item.Sign.Birch.name=Birch Sign
+item.Sign.Jungle.name=Jungle Sign
+item.Sign.Acacia.name=Acacia Sign
+item.Sign.DarkOak.name=Dark Oak Sign
+  
+item.Sign.EBXL.Acacia.name=Acacia Sign
+item.Sign.EBXL.BaldCypress.name=Bald Cypress Sign
+item.Sign.EBXL.Cypress.name=Cypres Sign
+item.Sign.EBXL.JapaneseMaple.name=Japanes Maple Sign
+item.Sign.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus Sign
+item.Sign.EBXL.Redwood.name=Redwood Sign
+item.Sign.EBXL.Sakura.name=Sakura Blossom Sign
+item.Sign.EBXL.Autumn.name=Autumn Sign
+item.Sign.EBXL.Fir.name=Fir Sign
+
+item.Door.name=Door
+  
+item.Door.Oak.name=Oak Door
+item.Door.Spruce.name=Spruce Door
+item.Door.Birch.name=Birch Door
+item.Door.Jungle.name=Jungle Door
+item.Door.Acacia.name=Acacia Door
+item.Door.DarkOak.name=Dark Oak Door
+  
+item.Door.EBXL.Acacia.name=Acacia Door
+item.Door.EBXL.BaldCypress.name=Bald Cypress Door
+item.Door.EBXL.Cypress.name=Cypres Door
+item.Door.EBXL.JapaneseMaple.name=Japanes Maple Door
+item.Door.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus Door
+item.Door.EBXL.Redwood.name=Redwood Door
+item.Door.EBXL.Sakura.name=Sakura Blossom Door
+item.Door.EBXL.Autumn.name=Autumn Door
+item.Door.EBXL.Fir.name=Fir Door
+
+item.Boat.name=Boat
+  
+item.Boat.Oak.name=Oak Boat
+item.Boat.Spruce.name=Spruce Boat
+item.Boat.Birch.name=Birch Boat
+item.Boat.Jungle.name=Jungle Boat
+item.Boat.Acacia.name=Acacia Boat
+item.Boat.DarkOak.name=Dark Oak Boat
+  
+item.Boat.EBXL.Acacia.name=Acacia Boat
+item.Boat.EBXL.BaldCypress.name=Bald Cypress Boat
+item.Boat.EBXL.Cypress.name=Cypres Boat
+item.Boat.EBXL.JapaneseMaple.name=Japanes Maple Boat
+item.Boat.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus Boat
+item.Boat.EBXL.Redwood.name=Redwood Boat
+item.Boat.EBXL.Sakura.name=Sakura Blossom Boat
+item.Boat.EBXL.Autumn.name=Autumn Boat
+item.Boat.EBXL.Fir.name=Fir Boat
+
+item.Painting.name=Painting
+  
+item.Painting.Oak.name=Oak Painting
+item.Painting.Spruce.name=Spruce Painting
+item.Painting.Birch.name=Birch Painting
+item.Painting.Jungle.name=Jungle Painting
+item.Painting.Acacia.name=Acacia Painting
+item.Painting.DarkOak.name=Dark Oak Painting
+  
+item.Painting.EBXL.Acacia.name=Acacia Painting
+item.Painting.EBXL.BaldCypress.name=Bald Cypress Painting
+item.Painting.EBXL.Cypress.name=Cypres Painting
+item.Painting.EBXL.JapaneseMaple.name=Japanes Maple Painting
+item.Painting.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus Painting
+item.Painting.EBXL.Redwood.name=Redwood Painting
+item.Painting.EBXL.Sakura.name=Sakura Blossom Painting
+item.Painting.EBXL.Autumn.name=Autumn Painting
+item.Painting.EBXL.Fir.name=Fir Painting
+
+item.ItemFrame.name=ItemFrame
+  
+item.ItemFrame.Oak.name=Oak ItemFrame
+item.ItemFrame.Spruce.name=Spruce ItemFrame
+item.ItemFrame.Birch.name=Birch ItemFrame
+item.ItemFrame.Jungle.name=Jungle ItemFrame
+item.ItemFrame.Acacia.name=Acacia ItemFrame
+item.ItemFrame.DarkOak.name=Dark Oak ItemFrame
+  
+item.ItemFrame.EBXL.Acacia.name=Acacia ItemFrame
+item.ItemFrame.EBXL.BaldCypress.name=Bald Cypress ItemFrame
+item.ItemFrame.EBXL.Cypress.name=Cypres ItemFrame
+item.ItemFrame.EBXL.JapaneseMaple.name=Japanes Maple ItemFrame
+item.ItemFrame.EBXL.RainbowEucalyptus.name=Rainbow Eucalyptus ItemFrame
+item.ItemFrame.EBXL.Redwood.name=Redwood ItemFrame
+item.ItemFrame.EBXL.Sakura.name=Sakura Blossom ItemFrame
+item.ItemFrame.EBXL.Autumn.name=Autumn ItemFrame
+item.ItemFrame.EBXL.Fir.name=Fir ItemFrame
+
+// Swords
+
+item.Sword.name=Sword
+
+item.Sword.Wood.name=Wooden Sword
+item.Sword.Stone.name=Stone Sword
+item.Sword.Iron.name=Iron Sword
+item.Sword.Gold.name=Gold Sword
+item.Sword.Diamond.name=Diamond Sword
+  
+item.Sword.Oak.Oak.name=Wooden Sword
+item.Sword.Oak.Spruce.name=Wooden Sword
+item.Sword.Oak.Birch.name=Wooden Sword
+item.Sword.Oak.Jungle.name=Wooden Sword
+item.Sword.Oak.Acacia.name=Wooden Sword
+item.Sword.Oak.DarkOak.name=Wooden Sword
+item.Sword.Spruce.Oak.name=Wooden Sword
+item.Sword.Spruce.Spruce.name=Wooden Sword
+item.Sword.Spruce.Birch.name=Wooden Sword
+item.Sword.Spruce.Jungle.name=Wooden Sword
+item.Sword.Spruce.Acacia.name=Wooden Sword
+item.Sword.Spruce.DarkOak.name=Wooden Sword
+item.Sword.Birch.Oak.name=Wooden Sword
+item.Sword.Birch.Spruce.name=Wooden Sword
+item.Sword.Birch.Birch.name=Wooden Sword
+item.Sword.Birch.Jungle.name=Wooden Sword
+item.Sword.Birch.Acacia.name=Wooden Sword
+item.Sword.Birch.DarkOak.name=Wooden Sword
+item.Sword.Jungle.Oak.name=Wooden Sword
+item.Sword.Jungle.Spruce.name=Wooden Sword
+item.Sword.Jungle.Birch.name=Wooden Sword
+item.Sword.Jungle.Jungle.name=Wooden Sword
+item.Sword.Jungle.Acacia.name=Wooden Sword
+item.Sword.Jungle.DarkOak.name=Wooden Sword
+item.Sword.Acacia.Oak.name=Wooden Sword
+item.Sword.Acacia.Spruce.name=Wooden Sword
+item.Sword.Acacia.Birch.name=Wooden Sword
+item.Sword.Acacia.Jungle.name=Wooden Sword
+item.Sword.Acacia.Acacia.name=Wooden Sword
+item.Sword.Acacia.DarkOak.name=Wooden Sword
+item.Sword.DarkOak.Oak.name=Wooden Sword
+item.Sword.DarkOak.Spruce.name=Wooden Sword
+item.Sword.DarkOak.Birch.name=Wooden Sword
+item.Sword.DarkOak.Jungle.name=Wooden Sword
+item.Sword.DarkOak.Acacia.name=Wooden Sword
+item.Sword.DarkOak.DarkOak.name=Wooden Sword
+
+item.Sword.Stone.Oak.name=Stone Sword
+item.Sword.Stone.Spruce.name=Stone Sword
+item.Sword.Stone.Birch.name=Stone Sword
+item.Sword.Stone.Jungle.name=Stone Sword
+item.Sword.Stone.Acacia.name=Stone Sword
+item.Sword.Stone.DarkOak.name=Stone Sword
+
+item.Sword.Iron.Oak.name=Iron Sword
+item.Sword.Iron.Spruce.name=Iron Sword
+item.Sword.Iron.Birch.name=Iron Sword
+item.Sword.Iron.Jungle.name=Iron Sword
+item.Sword.Iron.Acacia.name=Iron Sword
+item.Sword.Iron.DarkOak.name=Iron Sword
+
+item.Sword.Gold.Oak.name=Gold Sword
+item.Sword.Gold.Spruce.name=Gold Sword
+item.Sword.Gold.Birch.name=Gold Sword
+item.Sword.Gold.Jungle.name=Gold Sword
+item.Sword.Gold.Acacia.name=Gold Sword
+item.Sword.Gold.DarkOak.name=Gold Sword
+
+item.Sword.Diamond.Oak.name=Diamond Sword
+item.Sword.Diamond.Spruce.name=Diamond Sword
+item.Sword.Diamond.Birch.name=Diamond Sword
+item.Sword.Diamond.Jungle.name=Diamond Sword
+item.Sword.Diamond.Acacia.name=Diamond Sword
+item.Sword.Diamond.DarkOak.name=Diamond Sword
+
+// Shovels
+
+item.Shovel.name=Shovel
+
+item.Shovel.Wood.name=Wooden Shovel
+item.Shovel.Stone.name=Stone Shovel
+item.Shovel.Iron.name=Iron Shovel
+item.Shovel.Gold.name=Gold Shovel
+item.Shovel.Diamond.name=Diamond Shovel
+  
+item.Shovel.Oak.Oak.name=Wooden Shovel
+item.Shovel.Oak.Spruce.name=Wooden Shovel
+item.Shovel.Oak.Birch.name=Wooden Shovel
+item.Shovel.Oak.Jungle.name=Wooden Shovel
+item.Shovel.Oak.Acacia.name=Wooden Shovel
+item.Shovel.Oak.DarkOak.name=Wooden Shovel
+item.Shovel.Spruce.Oak.name=Wooden Shovel
+item.Shovel.Spruce.Spruce.name=Wooden Shovel
+item.Shovel.Spruce.Birch.name=Wooden Shovel
+item.Shovel.Spruce.Jungle.name=Wooden Shovel
+item.Shovel.Spruce.Acacia.name=Wooden Shovel
+item.Shovel.Spruce.DarkOak.name=Wooden Shovel
+item.Shovel.Birch.Oak.name=Wooden Shovel
+item.Shovel.Birch.Spruce.name=Wooden Shovel
+item.Shovel.Birch.Birch.name=Wooden Shovel
+item.Shovel.Birch.Jungle.name=Wooden Shovel
+item.Shovel.Birch.Acacia.name=Wooden Shovel
+item.Shovel.Birch.DarkOak.name=Wooden Shovel
+item.Shovel.Jungle.Oak.name=Wooden Shovel
+item.Shovel.Jungle.Spruce.name=Wooden Shovel
+item.Shovel.Jungle.Birch.name=Wooden Shovel
+item.Shovel.Jungle.Jungle.name=Wooden Shovel
+item.Shovel.Jungle.Acacia.name=Wooden Shovel
+item.Shovel.Jungle.DarkOak.name=Wooden Shovel
+item.Shovel.Acacia.Oak.name=Wooden Shovel
+item.Shovel.Acacia.Spruce.name=Wooden Shovel
+item.Shovel.Acacia.Birch.name=Wooden Shovel
+item.Shovel.Acacia.Jungle.name=Wooden Shovel
+item.Shovel.Acacia.Acacia.name=Wooden Shovel
+item.Shovel.Acacia.DarkOak.name=Wooden Shovel
+item.Shovel.DarkOak.Oak.name=Wooden Shovel
+item.Shovel.DarkOak.Spruce.name=Wooden Shovel
+item.Shovel.DarkOak.Birch.name=Wooden Shovel
+item.Shovel.DarkOak.Jungle.name=Wooden Shovel
+item.Shovel.DarkOak.Acacia.name=Wooden Shovel
+item.Shovel.DarkOak.DarkOak.name=Wooden Shovel
+
+item.Shovel.Stone.Oak.name=Stone Shovel
+item.Shovel.Stone.Spruce.name=Stone Shovel
+item.Shovel.Stone.Birch.name=Stone Shovel
+item.Shovel.Stone.Jungle.name=Stone Shovel
+item.Shovel.Stone.Acacia.name=Stone Shovel
+item.Shovel.Stone.DarkOak.name=Stone Shovel
+
+item.Shovel.Iron.Oak.name=Iron Shovel
+item.Shovel.Iron.Spruce.name=Iron Shovel
+item.Shovel.Iron.Birch.name=Iron Shovel
+item.Shovel.Iron.Jungle.name=Iron Shovel
+item.Shovel.Iron.Acacia.name=Iron Shovel
+item.Shovel.Iron.DarkOak.name=Iron Shovel
+
+item.Shovel.Gold.Oak.name=Gold Shovel
+item.Shovel.Gold.Spruce.name=Gold Shovel
+item.Shovel.Gold.Birch.name=Gold Shovel
+item.Shovel.Gold.Jungle.name=Gold Shovel
+item.Shovel.Gold.Acacia.name=Gold Shovel
+item.Shovel.Gold.DarkOak.name=Gold Shovel
+
+item.Shovel.Diamond.Oak.name=Diamond Shovel
+item.Shovel.Diamond.Spruce.name=Diamond Shovel
+item.Shovel.Diamond.Birch.name=Diamond Shovel
+item.Shovel.Diamond.Jungle.name=Diamond Shovel
+item.Shovel.Diamond.Acacia.name=Diamond Shovel
+item.Shovel.Diamond.DarkOak.name=Diamond Shovel
+
+// Pickaxes
+
+item.Pickaxe.name=Pickaxe
+
+item.Pickaxe.Wood.name=Wooden Pickaxe
+item.Pickaxe.Stone.name=Stone Pickaxe
+item.Pickaxe.Iron.name=Iron Pickaxe
+item.Pickaxe.Gold.name=Gold Pickaxe
+item.Pickaxe.Diamond.name=Diamond Pickaxe
+  
+item.Pickaxe.Oak.Oak.name=Wooden Pickaxe
+item.Pickaxe.Oak.Spruce.name=Wooden Pickaxe
+item.Pickaxe.Oak.Birch.name=Wooden Pickaxe
+item.Pickaxe.Oak.Jungle.name=Wooden Pickaxe
+item.Pickaxe.Oak.Acacia.name=Wooden Pickaxe
+item.Pickaxe.Oak.DarkOak.name=Wooden Pickaxe
+item.Pickaxe.Spruce.Oak.name=Wooden Pickaxe
+item.Pickaxe.Spruce.Spruce.name=Wooden Pickaxe
+item.Pickaxe.Spruce.Birch.name=Wooden Pickaxe
+item.Pickaxe.Spruce.Jungle.name=Wooden Pickaxe
+item.Pickaxe.Spruce.Acacia.name=Wooden Pickaxe
+item.Pickaxe.Spruce.DarkOak.name=Wooden Pickaxe
+item.Pickaxe.Birch.Oak.name=Wooden Pickaxe
+item.Pickaxe.Birch.Spruce.name=Wooden Pickaxe
+item.Pickaxe.Birch.Birch.name=Wooden Pickaxe
+item.Pickaxe.Birch.Jungle.name=Wooden Pickaxe
+item.Pickaxe.Birch.Acacia.name=Wooden Pickaxe
+item.Pickaxe.Birch.DarkOak.name=Wooden Pickaxe
+item.Pickaxe.Jungle.Oak.name=Wooden Pickaxe
+item.Pickaxe.Jungle.Spruce.name=Wooden Pickaxe
+item.Pickaxe.Jungle.Birch.name=Wooden Pickaxe
+item.Pickaxe.Jungle.Jungle.name=Wooden Pickaxe
+item.Pickaxe.Jungle.Acacia.name=Wooden Pickaxe
+item.Pickaxe.Jungle.DarkOak.name=Wooden Pickaxe
+item.Pickaxe.Acacia.Oak.name=Wooden Pickaxe
+item.Pickaxe.Acacia.Spruce.name=Wooden Pickaxe
+item.Pickaxe.Acacia.Birch.name=Wooden Pickaxe
+item.Pickaxe.Acacia.Jungle.name=Wooden Pickaxe
+item.Pickaxe.Acacia.Acacia.name=Wooden Pickaxe
+item.Pickaxe.Acacia.DarkOak.name=Wooden Pickaxe
+item.Pickaxe.DarkOak.Oak.name=Wooden Pickaxe
+item.Pickaxe.DarkOak.Spruce.name=Wooden Pickaxe
+item.Pickaxe.DarkOak.Birch.name=Wooden Pickaxe
+item.Pickaxe.DarkOak.Jungle.name=Wooden Pickaxe
+item.Pickaxe.DarkOak.Acacia.name=Wooden Pickaxe
+item.Pickaxe.DarkOak.DarkOak.name=Wooden Pickaxe
+
+item.Pickaxe.Stone.Oak.name=Stone Pickaxe
+item.Pickaxe.Stone.Spruce.name=Stone Pickaxe
+item.Pickaxe.Stone.Birch.name=Stone Pickaxe
+item.Pickaxe.Stone.Jungle.name=Stone Pickaxe
+item.Pickaxe.Stone.Acacia.name=Stone Pickaxe
+item.Pickaxe.Stone.DarkOak.name=Stone Pickaxe
+
+item.Pickaxe.Iron.Oak.name=Iron Pickaxe
+item.Pickaxe.Iron.Spruce.name=Iron Pickaxe
+item.Pickaxe.Iron.Birch.name=Iron Pickaxe
+item.Pickaxe.Iron.Jungle.name=Iron Pickaxe
+item.Pickaxe.Iron.Acacia.name=Iron Pickaxe
+item.Pickaxe.Iron.DarkOak.name=Iron Pickaxe
+
+item.Pickaxe.Gold.Oak.name=Gold Pickaxe
+item.Pickaxe.Gold.Spruce.name=Gold Pickaxe
+item.Pickaxe.Gold.Birch.name=Gold Pickaxe
+item.Pickaxe.Gold.Jungle.name=Gold Pickaxe
+item.Pickaxe.Gold.Acacia.name=Gold Pickaxe
+item.Pickaxe.Gold.DarkOak.name=Gold Pickaxe
+
+item.Pickaxe.Diamond.Oak.name=Diamond Pickaxe
+item.Pickaxe.Diamond.Spruce.name=Diamond Pickaxe
+item.Pickaxe.Diamond.Birch.name=Diamond Pickaxe
+item.Pickaxe.Diamond.Jungle.name=Diamond Pickaxe
+item.Pickaxe.Diamond.Acacia.name=Diamond Pickaxe
+item.Pickaxe.Diamond.DarkOak.name=Diamond Pickaxe
+
+// Axes
+
+item.Axe.name=Axe
+
+item.Axe.Wood.name=Wooden Axe
+item.Axe.Stone.name=Stone Axe
+item.Axe.Iron.name=Iron Axe
+item.Axe.Gold.name=Gold Axe
+item.Axe.Diamond.name=Diamond Axe
+  
+item.Axe.Oak.Oak.name=Wooden Axe
+item.Axe.Oak.Spruce.name=Wooden Axe
+item.Axe.Oak.Birch.name=Wooden Axe
+item.Axe.Oak.Jungle.name=Wooden Axe
+item.Axe.Oak.Acacia.name=Wooden Axe
+item.Axe.Oak.DarkOak.name=Wooden Axe
+item.Axe.Spruce.Oak.name=Wooden Axe
+item.Axe.Spruce.Spruce.name=Wooden Axe
+item.Axe.Spruce.Birch.name=Wooden Axe
+item.Axe.Spruce.Jungle.name=Wooden Axe
+item.Axe.Spruce.Acacia.name=Wooden Axe
+item.Axe.Spruce.DarkOak.name=Wooden Axe
+item.Axe.Birch.Oak.name=Wooden Axe
+item.Axe.Birch.Spruce.name=Wooden Axe
+item.Axe.Birch.Birch.name=Wooden Axe
+item.Axe.Birch.Jungle.name=Wooden Axe
+item.Axe.Birch.Acacia.name=Wooden Axe
+item.Axe.Birch.DarkOak.name=Wooden Axe
+item.Axe.Jungle.Oak.name=Wooden Axe
+item.Axe.Jungle.Spruce.name=Wooden Axe
+item.Axe.Jungle.Birch.name=Wooden Axe
+item.Axe.Jungle.Jungle.name=Wooden Axe
+item.Axe.Jungle.Acacia.name=Wooden Axe
+item.Axe.Jungle.DarkOak.name=Wooden Axe
+item.Axe.Acacia.Oak.name=Wooden Axe
+item.Axe.Acacia.Spruce.name=Wooden Axe
+item.Axe.Acacia.Birch.name=Wooden Axe
+item.Axe.Acacia.Jungle.name=Wooden Axe
+item.Axe.Acacia.Acacia.name=Wooden Axe
+item.Axe.Acacia.DarkOak.name=Wooden Axe
+item.Axe.DarkOak.Oak.name=Wooden Axe
+item.Axe.DarkOak.Spruce.name=Wooden Axe
+item.Axe.DarkOak.Birch.name=Wooden Axe
+item.Axe.DarkOak.Jungle.name=Wooden Axe
+item.Axe.DarkOak.Acacia.name=Wooden Axe
+item.Axe.DarkOak.DarkOak.name=Wooden Axe
+
+item.Axe.Stone.Oak.name=Stone Axe
+item.Axe.Stone.Spruce.name=Stone Axe
+item.Axe.Stone.Birch.name=Stone Axe
+item.Axe.Stone.Jungle.name=Stone Axe
+item.Axe.Stone.Acacia.name=Stone Axe
+item.Axe.Stone.DarkOak.name=Stone Axe
+
+item.Axe.Iron.Oak.name=Iron Axe
+item.Axe.Iron.Spruce.name=Iron Axe
+item.Axe.Iron.Birch.name=Iron Axe
+item.Axe.Iron.Jungle.name=Iron Axe
+item.Axe.Iron.Acacia.name=Iron Axe
+item.Axe.Iron.DarkOak.name=Iron Axe
+
+item.Axe.Gold.Oak.name=Gold Axe
+item.Axe.Gold.Spruce.name=Gold Axe
+item.Axe.Gold.Birch.name=Gold Axe
+item.Axe.Gold.Jungle.name=Gold Axe
+item.Axe.Gold.Acacia.name=Gold Axe
+item.Axe.Gold.DarkOak.name=Gold Axe
+
+item.Axe.Diamond.Oak.name=Diamond Axe
+item.Axe.Diamond.Spruce.name=Diamond Axe
+item.Axe.Diamond.Birch.name=Diamond Axe
+item.Axe.Diamond.Jungle.name=Diamond Axe
+item.Axe.Diamond.Acacia.name=Diamond Axe
+item.Axe.Diamond.DarkOak.name=Diamond Axe
+
+// Hoes
+
+item.Hoe.name=Hoe
+
+item.Hoe.Wood.name=Wooden Hoe
+item.Hoe.Stone.name=Stone Hoe
+item.Hoe.Iron.name=Iron Hoe
+item.Hoe.Gold.name=Gold Hoe
+item.Hoe.Diamond.name=Diamond Hoe
+  
+item.Hoe.Oak.Oak.name=Wooden Hoe
+item.Hoe.Oak.Spruce.name=Wooden Hoe
+item.Hoe.Oak.Birch.name=Wooden Hoe
+item.Hoe.Oak.Jungle.name=Wooden Hoe
+item.Hoe.Oak.Acacia.name=Wooden Hoe
+item.Hoe.Oak.DarkOak.name=Wooden Hoe
+item.Hoe.Spruce.Oak.name=Wooden Hoe
+item.Hoe.Spruce.Spruce.name=Wooden Hoe
+item.Hoe.Spruce.Birch.name=Wooden Hoe
+item.Hoe.Spruce.Jungle.name=Wooden Hoe
+item.Hoe.Spruce.Acacia.name=Wooden Hoe
+item.Hoe.Spruce.DarkOak.name=Wooden Hoe
+item.Hoe.Birch.Oak.name=Wooden Hoe
+item.Hoe.Birch.Spruce.name=Wooden Hoe
+item.Hoe.Birch.Birch.name=Wooden Hoe
+item.Hoe.Birch.Jungle.name=Wooden Hoe
+item.Hoe.Birch.Acacia.name=Wooden Hoe
+item.Hoe.Birch.DarkOak.name=Wooden Hoe
+item.Hoe.Jungle.Oak.name=Wooden Hoe
+item.Hoe.Jungle.Spruce.name=Wooden Hoe
+item.Hoe.Jungle.Birch.name=Wooden Hoe
+item.Hoe.Jungle.Jungle.name=Wooden Hoe
+item.Hoe.Jungle.Acacia.name=Wooden Hoe
+item.Hoe.Jungle.DarkOak.name=Wooden Hoe
+item.Hoe.Acacia.Oak.name=Wooden Hoe
+item.Hoe.Acacia.Spruce.name=Wooden Hoe
+item.Hoe.Acacia.Birch.name=Wooden Hoe
+item.Hoe.Acacia.Jungle.name=Wooden Hoe
+item.Hoe.Acacia.Acacia.name=Wooden Hoe
+item.Hoe.Acacia.DarkOak.name=Wooden Hoe
+item.Hoe.DarkOak.Oak.name=Wooden Hoe
+item.Hoe.DarkOak.Spruce.name=Wooden Hoe
+item.Hoe.DarkOak.Birch.name=Wooden Hoe
+item.Hoe.DarkOak.Jungle.name=Wooden Hoe
+item.Hoe.DarkOak.Acacia.name=Wooden Hoe
+item.Hoe.DarkOak.DarkOak.name=Wooden Hoe
+
+item.Hoe.Stone.Oak.name=Stone Hoe
+item.Hoe.Stone.Spruce.name=Stone Hoe
+item.Hoe.Stone.Birch.name=Stone Hoe
+item.Hoe.Stone.Jungle.name=Stone Hoe
+item.Hoe.Stone.Acacia.name=Stone Hoe
+item.Hoe.Stone.DarkOak.name=Stone Hoe
+
+item.Hoe.Iron.Oak.name=Iron Hoe
+item.Hoe.Iron.Spruce.name=Iron Hoe
+item.Hoe.Iron.Birch.name=Iron Hoe
+item.Hoe.Iron.Jungle.name=Iron Hoe
+item.Hoe.Iron.Acacia.name=Iron Hoe
+item.Hoe.Iron.DarkOak.name=Iron Hoe
+
+item.Hoe.Gold.Oak.name=Gold Hoe
+item.Hoe.Gold.Spruce.name=Gold Hoe
+item.Hoe.Gold.Birch.name=Gold Hoe
+item.Hoe.Gold.Jungle.name=Gold Hoe
+item.Hoe.Gold.Acacia.name=Gold Hoe
+item.Hoe.Gold.DarkOak.name=Gold Hoe
+
+item.Hoe.Diamond.Oak.name=Diamond Hoe
+item.Hoe.Diamond.Spruce.name=Diamond Hoe
+item.Hoe.Diamond.Birch.name=Diamond Hoe
+item.Hoe.Diamond.Jungle.name=Diamond Hoe
+item.Hoe.Diamond.Acacia.name=Diamond Hoe
+item.Hoe.Diamond.DarkOak.name=Diamond Hoe
+
+// Bows
+
+item.Bow.name=Bow
+
+item.Bow.Oak.name=Oak Bow
+item.Bow.Spruce.name=Spruce Bow
+item.Bow.Birch.name=Birch Bow
+item.Bow.Jungle.name=Jungle Bow
+item.Bow.Acacia.name=Acacia Bow
+item.Bow.DarkOak.name=Dark Oak Bow
+
+// Lore
+
+lore.head.sword=Head
+lore.handle.sword=Handle
+lore.head.shovel=Head
+lore.handle.shovel=Handle
+lore.head.pickaxe=Head
+lore.handle.pickaxe=Handle
+lore.head.axe=Head
+lore.handle.axe=Handle
+lore.head.hoe=Head
+lore.handle.hoe=Handle
+
+lore.oak=Oak Wood
+lore.spruce=Spruce Wood
+lore.birch=Birch Wood
+lore.jungle=Jungle Wood
+lore.acacia=Acacia Wood
+lore.darkOak=Dark Oak Wood
+lore.stone=Stone
+lore.iron=Iron
+lore.gold=Gold
+lore.diamond=Diamond
+
+lore.material=Material
+lore.material.bowl=Bowl Material

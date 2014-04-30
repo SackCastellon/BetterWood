@@ -1,0 +1,17 @@
+[
+{
+  "modid": "SKC-BetterWood",
+  "name": "Better Wood",
+  "description": "A mod which allows you to craft items with different types of wood",
+  "mcversion": "1.7.2",
+  "version" : "1.1.0.7",
+  "url": "http://www.minecraftforum.net/topic/1865771-",
+  "updateUrl": "",
+  "authors": ["SackCastellon"],
+  "credits": "Created by SackCastellon",
+  "logoFile": "",
+  "screenshots": [],
+  "parent": "",
+  "dependencies": []
+}
+]

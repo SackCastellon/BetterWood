@@ -1,0 +1,665 @@
+﻿// Spanish (es_ES) Localization File By SackCastellon
+
+itemGroup.BetterWood=BetterWood
+itemGroup.BetterWood.vanilla=BetterWood - Vanilla
+itemGroup.BetterWood.bop=BetterWood - BoP
+itemGroup.BetterWood.ebxl=BetterWood - EBXL
+
+// Bloques
+
+tile.Bookshelf.Oak.name=Librería de madera de roble
+tile.Bookshelf.Spruce.name=Librería de madera de abeto
+tile.Bookshelf.Birch.name=Librería de madera de abedul
+tile.Bookshelf.Jungle.name=Librería de madera de la selva
+tile.Bookshelf.Acacia.name=Librería de madera de acacia
+tile.Bookshelf.DarkOak.name=Librería de madera de roble oscuro
+    
+tile.Fence.Oak.name=Valla de madera de roble
+tile.Fence.Spruce.name=Valla de madera de abeto
+tile.Fence.Birch.name=Valla de madera de abedul
+tile.Fence.Jungle.name=Valla de madera de la selva
+tile.Fence.Acacia.name=Valla de madera de acacia
+tile.Fence.DarkOak.name=Valla de madera de roble oscuro
+    
+tile.FenceGate.Oak.name=Puerta de valla de madera de roble
+tile.FenceGate.Spruce.name=Puerta de valla de madera de abeto
+tile.FenceGate.Birch.name=Puerta de valla de madera de abedul
+tile.FenceGate.Jungle.name=Puerta de valla de madera de la selva
+tile.FenceGate.Acacia.name=Puerta de valla de madera de acacia
+tile.FenceGate.DarkOak.name=Puerta de valla de madera de roble oscuro
+    
+tile.Button.Oak.name=Botón de madera de roble
+tile.Button.Spruce.name=Botón de madera de abeto
+tile.Button.Birch.name=Botón de madera de abedul
+tile.Button.Jungle.name=Botón de madera de la selva
+tile.Button.Acacia.name=Botón de madera de acacia
+tile.Button.DarkOak.name=Botón de madera de roble oscuro
+  
+tile.PressurePlate.Oak.name=Placa de presión de madera de roble
+tile.PressurePlate.Spruce.name=Placa de presión de madera de abeto
+tile.PressurePlate.Birch.name=Placa de presión de madera de abedul
+tile.PressurePlate.Jungle.name=Placa de presión de madera de la selva
+tile.PressurePlate.Acacia.name=Placa de presión de madera de acacia
+tile.PressurePlate.DarkOak.name=Placa de presión de madera de roble oscuro
+  
+tile.Lever.Oak.name=Palanca de madera de roble
+tile.Lever.Spruce.name=Palanca de madera de abeto
+tile.Lever.Birch.name=Palanca de madera de abedul
+tile.Lever.Jungle.name=Palanca de madera de la selva
+tile.Lever.Acacia.name=Palanca de madera de acacia
+tile.Lever.DarkOak.name=Palanca de madera de roble oscuro
+
+tile.Ladder.Oak.name=Escalera de madera de roble
+tile.Ladder.Spruce.name=Escalera de madera de abeto
+tile.Ladder.Birch.name=Escalera de madera de abedul
+tile.Ladder.Jungle.name=Escalera de madera de la selva
+tile.Ladder.Acacia.name=Escalera de madera de acacia
+tile.Ladder.DarkOak.name=Escalera de madera de roble oscuro
+  
+tile.Torch.Oak.name=Antorcha de madera de roble
+tile.Torch.Spruce.name=Antorcha de madera de abeto
+tile.Torch.Birch.name=Antorcha de madera de abedul
+tile.Torch.Jungle.name=Antorcha de madera de la selva
+tile.Torch.Acacia.name=Antorcha de madera de acacia
+tile.Torch.DarkOak.name=Antorcha de madera de roble oscuro
+
+tile.Door.Oak.name=Puerta de madera de roble
+tile.Door.Spruce.name=Puerta de madera de abeto
+tile.Door.Birch.name=Puerta de madera de abedul
+tile.Door.Jungle.name=Puerta de madera de la selva
+tile.Door.Acacia.name=Puerta de madera de acacia
+tile.Door.DarkOak.name=Puerta de madera de roble oscuro
+
+tile.Trapdoor.Oak.name=Trampilla de madera de roble
+tile.Trapdoor.Spruce.name=Trampilla de madera de abeto
+tile.Trapdoor.Birch.name=Trampilla de madera de abedul
+tile.Trapdoor.Jungle.name=Trampilla de madera de la selva
+tile.Trapdoor.Acacia.name=Trampilla de madera de acacia
+tile.Trapdoor.DarkOak.name=Trampilla de madera de roble oscuro
+
+
+// Objetos
+
+item.Stick.name=Palo de madera
+
+item.Stick.Oak.name=Palo de madera de roble
+item.Stick.Spruce.name=Palo de madera de abeto
+item.Stick.Birch.name=Palo de madera de abedul
+item.Stick.Jungle.name=Palo de madera de la selva
+item.Stick.Acacia.name=Palo de madera de acacia
+item.Stick.DarkOak.name=Palo de madera de roble oscuro
+  
+item.Stick.EBXL.Acacia.name=Palo de madera de acacia
+item.Stick.EBXL.BaldCypress.name=Palo de madera de ciprés de los pantanos
+item.Stick.EBXL.Cypress.name=Palo de madera de ciprés
+item.Stick.EBXL.JapaneseMaple.name=Palo de madera de arce japonés
+item.Stick.EBXL.RainbowEucalyptus.name=Palo de madera de eucalipto del arco iris
+item.Stick.EBXL.Redwood.name=Palo de madera de secoya
+item.Stick.EBXL.Sakura.name=Palo de madera de sakura
+item.Stick.EBXL.Autumn.name=Palo de madera otoñal
+item.Stick.EBXL.Fir.name=Palo de madera de abeto
+
+item.Bowl.name=Cuenco de madera
+
+item.Bowl.Oak.name=Cuenco de madera de roble
+item.Bowl.Spruce.name=Cuenco de madera de abeto
+item.Bowl.Birch.name=Cuenco de madera de abedul
+item.Bowl.Jungle.name=Cuenco de madera de la selva
+item.Bowl.Acacia.name=Cuenco de madera de acacia
+item.Bowl.DarkOak.name=Cuenco de madera de roble oscuro
+  
+item.Bowl.EBXL.Acacia.name=Cuenco de madera de acacia
+item.Bowl.EBXL.BaldCypress.name=Cuenco de madera de ciprés de los pantanos
+item.Bowl.EBXL.Cypress.name=Cuenco de madera de ciprés
+item.Bowl.EBXL.JapaneseMaple.name=Cuenco de madera de arce japonés
+item.Bowl.EBXL.RainbowEucalyptus.name=Cuenco de madera de eucalipto del arco iris
+item.Bowl.EBXL.Redwood.name=Cuenco de madera de secoya
+item.Bowl.EBXL.Sakura.name=Cuenco de madera de sakura
+item.Bowl.EBXL.Autumn.name=Cuenco de madera otoñal
+item.Bowl.EBXL.Fir.name=Cuenco de madera de abeto
+
+item.Soup.name=Estofado de champiñones
+
+item.Soup.Oak.name=Estofado de champiñones
+item.Soup.Spruce.name=Estofado de champiñones
+item.Soup.Birch.name=Estofado de champiñones
+item.Soup.Jungle.name=Estofado de champiñones
+item.Soup.Acacia.name=Estofado de champiñones
+item.Soup.DarkOak.name=Estofado de champiñones
+  
+item.Soup.EBXL.Acacia.name=Estofado de champiñones
+item.Soup.EBXL.BaldCypress.name=Estofado de champiñones
+item.Soup.EBXL.Cypress.name=Estofado de champiñones
+item.Soup.EBXL.JapaneseMaple.name=Estofado de champiñones
+item.Soup.EBXL.RainbowEucalyptus.name=Estofado de champiñones
+item.Soup.EBXL.Redwood.name=Estofado de champiñones
+item.Soup.EBXL.Sakura.name=Estofado de champiñones
+item.Soup.EBXL.Autumn.name=Estofado de champiñones
+item.Soup.EBXL.Fir.name=Estofado de champiñones
+
+item.Stick.name=Flecha de madera
+
+item.Stick.Oak.name=Flecha de madera de roble
+item.Stick.Spruce.name=Flecha de madera de abeto
+item.Stick.Birch.name=Flecha de madera de abedul
+item.Stick.Jungle.name=Flecha de madera de la selva
+item.Stick.Acacia.name=Flecha de madera de acacia
+item.Stick.DarkOak.name=Flecha de madera de roble oscuro
+  
+item.Stick.EBXL.Acacia.name=Flecha de madera de acacia
+item.Stick.EBXL.BaldCypress.name=Flecha de madera de ciprés de los pantanos
+item.Stick.EBXL.Cypress.name=Flecha de madera de ciprés
+item.Stick.EBXL.JapaneseMaple.name=Flecha de madera de arce japonés
+item.Stick.EBXL.RainbowEucalyptus.name=Flecha de madera de eucalipto del arco iris
+item.Stick.EBXL.Redwood.name=Flecha de madera de secoya
+item.Stick.EBXL.Sakura.name=Flecha de madera de Sakura
+item.Stick.EBXL.Autumn.name=Flecha de madera otoñal
+item.Stick.EBXL.Fir.name=Flecha de madera de abeto
+
+item.Sign.name=Cartel de madera
+
+item.Sign.Oak.name=Cartel de madera de roble
+item.Sign.Spruce.name=Cartel de madera de abeto
+item.Sign.Birch.name=Cartel de madera de abedul
+item.Sign.Jungle.name=Cartel de madera de la selva
+item.Sign.Acacia.name=Cartel de madera de acacia
+item.Sign.DarkOak.name=Cartel de madera de roble oscuro
+  
+item.Sign.EBXL.Acacia.name=Cartel de madera de acacia
+item.Sign.EBXL.BaldCypress.name=Cartel de madera de ciprés de los pantanos
+item.Sign.EBXL.Cypress.name=Cartel de madera de ciprés
+item.Sign.EBXL.JapaneseMaple.name=Cartel de madera de arce japonés
+item.Sign.EBXL.RainbowEucalyptus.name=Cartel de madera de eucalipto del arco iris
+item.Sign.EBXL.Redwood.name=Cartel de madera de secoya
+item.Sign.EBXL.Sakura.name=Cartel de madera de Sakura
+item.Sign.EBXL.Autumn.name=Cartel de madera otoñal
+item.Sign.EBXL.Fir.name=Cartel de madera de abeto
+
+item.Door.name=Puerta de madera
+
+item.Door.Oak.name=Puerta de madera de roble
+item.Door.Spruce.name=Puerta de madera de abeto
+item.Door.Birch.name=Puerta de madera de abedul
+item.Door.Jungle.name=Puerta de madera de la selva
+item.Door.Acacia.name=Puerta de madera de acacia
+item.Door.DarkOak.name=Puerta de madera de roble oscuro
+  
+item.Door.EBXL.Acacia.name=Puerta de madera de acacia
+item.Door.EBXL.BaldCypress.name=Puerta de madera de ciprés de los pantanos
+item.Door.EBXL.Cypress.name=Puerta de madera de ciprés
+item.Door.EBXL.JapaneseMaple.name=Puerta de madera de arce japonés
+item.Door.EBXL.RainbowEucalyptus.name=Puerta de madera de eucalipto del arco iris
+item.Door.EBXL.Redwood.name=Puerta de madera de secoya
+item.Door.EBXL.Sakura.name=Puerta de madera de Sakura
+item.Door.EBXL.Autumn.name=Puerta de madera otoñal
+item.Door.EBXL.Fir.name=Puerta de madera de abeto
+
+item.Boat.name=Bote de madera
+
+item.Boat.Oak.name=Bote de madera de roble
+item.Boat.Spruce.name=Bote de madera de abeto
+item.Boat.Birch.name=Bote de madera de abedul
+item.Boat.Jungle.name=Bote de madera de la selva
+item.Boat.Acacia.name=Bote de madera de acacia
+item.Boat.DarkOak.name=Bote de madera de roble oscuro
+  
+item.Boat.EBXL.Acacia.name=Bote de madera de acacia
+item.Boat.EBXL.BaldCypress.name=Bote de madera de ciprés de los pantanos
+item.Boat.EBXL.Cypress.name=Bote de madera de ciprés
+item.Boat.EBXL.JapaneseMaple.name=Bote de madera de arce japonés
+item.Boat.EBXL.RainbowEucalyptus.name=Bote de madera de eucalipto del arco iris
+item.Boat.EBXL.Redwood.name=Bote de madera de secoya
+item.Boat.EBXL.Sakura.name=Bote de madera de Sakura
+item.Boat.EBXL.Autumn.name=Bote de madera otoñal
+item.Boat.EBXL.Fir.name=Bote de madera de abeto
+
+item.Painting.name=Cuadro de madera
+
+item.Painting.Oak.name=Cuadro de madera de roble
+item.Painting.Spruce.name=Cuadro de madera de abeto
+item.Painting.Birch.name=Cuadro de madera de abedul
+item.Painting.Jungle.name=Cuadro de madera de la selva
+item.Painting.Acacia.name=Cuadro de madera de acacia
+item.Painting.DarkOak.name=Cuadro de madera de roble oscuro
+  
+item.Painting.EBXL.Acacia.name=Cuadro de madera de acacia
+item.Painting.EBXL.BaldCypress.name=Cuadro de madera de ciprés de los pantanos
+item.Painting.EBXL.Cypress.name=Cuadro de madera de ciprés
+item.Painting.EBXL.JapaneseMaple.name=Cuadro de madera de arce japonés
+item.Painting.EBXL.RainbowEucalyptus.name=Cuadro de madera de eucalipto del arco iris
+item.Painting.EBXL.Redwood.name=Cuadro de madera de secoya
+item.Painting.EBXL.Sakura.name=Cuadro de madera de Sakura
+item.Painting.EBXL.Autumn.name=Cuadro de madera otoñal
+item.Painting.EBXL.Fir.name=Cuadro de madera de abeto
+
+item.ItemFrame.name=Marco de madera
+
+item.ItemFrame.Oak.name=Marco de madera de roble
+item.ItemFrame.Spruce.name=Marco de madera de abeto
+item.ItemFrame.Birch.name=Marco de madera de abedul
+item.ItemFrame.Jungle.name=Marco de madera de la selva
+item.ItemFrame.Acacia.name=Marco de madera de acacia
+item.ItemFrame.DarkOak.name=Marco de madera de roble oscuro
+  
+item.ItemFrame.EBXL.Acacia.name=Marco de madera de acacia
+item.ItemFrame.EBXL.BaldCypress.name=Marco de madera de ciprés de los pantanos
+item.ItemFrame.EBXL.Cypress.name=Marco de madera de ciprés
+item.ItemFrame.EBXL.JapaneseMaple.name=Marco de madera de arce japonés
+item.ItemFrame.EBXL.RainbowEucalyptus.name=Marco de madera de eucalipto del arco iris
+item.ItemFrame.EBXL.Redwood.name=Marco de madera de secoya
+item.ItemFrame.EBXL.Sakura.name=Marco de madera de Sakura
+item.ItemFrame.EBXL.Autumn.name=Marco de madera otoñal
+item.ItemFrame.EBXL.Fir.name=Marco de madera de abeto
+
+// Espadas
+
+item.Sword.name=Espada
+
+item.Sword.Wood.name=Espada de madera
+item.Sword.Stone.name=Espada de piedra
+item.Sword.Iron.name=Espada de hierro
+item.Sword.Gold.name=Espada de oro
+item.Sword.Diamond.name=Espada de diamante
+  
+item.Sword.Oak.Oak.name=Espada de madera
+item.Sword.Oak.Spruce.name=Espada de madera
+item.Sword.Oak.Birch.name=Espada de madera
+item.Sword.Oak.Jungle.name=Espada de madera
+item.Sword.Oak.Acacia.name=Espada de madera
+item.Sword.Oak.DarkOak.name=Espada de madera
+item.Sword.Spruce.Oak.name=Espada de madera
+item.Sword.Spruce.Spruce.name=Espada de madera
+item.Sword.Spruce.Birch.name=Espada de madera
+item.Sword.Spruce.Jungle.name=Espada de madera
+item.Sword.Spruce.Acacia.name=Espada de madera
+item.Sword.Spruce.DarkOak.name=Espada de madera
+item.Sword.Birch.Oak.name=Espada de madera
+item.Sword.Birch.Spruce.name=Espada de madera
+item.Sword.Birch.Birch.name=Espada de madera
+item.Sword.Birch.Jungle.name=Espada de madera
+item.Sword.Birch.Acacia.name=Espada de madera
+item.Sword.Birch.DarkOak.name=Espada de madera
+item.Sword.Jungle.Oak.name=Espada de madera
+item.Sword.Jungle.Spruce.name=Espada de madera
+item.Sword.Jungle.Birch.name=Espada de madera
+item.Sword.Jungle.Jungle.name=Espada de madera
+item.Sword.Jungle.Acacia.name=Espada de madera
+item.Sword.Jungle.DarkOak.name=Espada de madera
+item.Sword.Acacia.Oak.name=Espada de madera
+item.Sword.Acacia.Spruce.name=Espada de madera
+item.Sword.Acacia.Birch.name=Espada de madera
+item.Sword.Acacia.Jungle.name=Espada de madera
+item.Sword.Acacia.Acacia.name=Espada de madera
+item.Sword.Acacia.DarkOak.name=Espada de madera
+item.Sword.DarkOak.Oak.name=Espada de madera
+item.Sword.DarkOak.Spruce.name=Espada de madera
+item.Sword.DarkOak.Birch.name=Espada de madera
+item.Sword.DarkOak.Jungle.name=Espada de madera
+item.Sword.DarkOak.Acacia.name=Espada de madera
+item.Sword.DarkOak.DarkOak.name=Espada de madera
+
+item.Sword.Stone.Oak.name=Espada de piedra
+item.Sword.Stone.Spruce.name=Espada de piedra
+item.Sword.Stone.Birch.name=Espada de piedra
+item.Sword.Stone.Jungle.name=Espada de piedra
+item.Sword.Stone.Acacia.name=Espada de piedra
+item.Sword.Stone.DarkOak.name=Espada de piedra
+
+item.Sword.Iron.Oak.name=Espada de hierro
+item.Sword.Iron.Spruce.name=Espada de hierro
+item.Sword.Iron.Birch.name=Espada de hierro
+item.Sword.Iron.Jungle.name=Espada de hierro
+item.Sword.Iron.Acacia.name=Espada de hierro
+item.Sword.Iron.DarkOak.name=Espada de hierro
+
+item.Sword.Gold.Oak.name=Espada de oro
+item.Sword.Gold.Spruce.name=Espada de oro
+item.Sword.Gold.Birch.name=Espada de oro
+item.Sword.Gold.Jungle.name=Espada de oro
+item.Sword.Gold.Acacia.name=Espada de oro
+item.Sword.Gold.DarkOak.name=Espada de oro
+
+item.Sword.Diamond.Oak.name=Espada de diamante
+item.Sword.Diamond.Spruce.name=Espada de diamante
+item.Sword.Diamond.Birch.name=Espada de diamante
+item.Sword.Diamond.Jungle.name=Espada de diamante
+item.Sword.Diamond.Acacia.name=Espada de diamante
+item.Sword.Diamond.DarkOak.name=Espada de diamante
+
+// Palas
+
+item.Shovel.name=Pala
+
+item.Shovel.Wood.name=Pala de madera
+item.Shovel.Stone.name=Pala de piedra
+item.Shovel.Iron.name=Pala de hierro
+item.Shovel.Gold.name=Pala de oro
+item.Shovel.Diamond.name=Pala de diamante
+  
+item.Shovel.Oak.Oak.name=Pala de madera
+item.Shovel.Oak.Spruce.name=Pala de madera
+item.Shovel.Oak.Birch.name=Pala de madera
+item.Shovel.Oak.Jungle.name=Pala de madera
+item.Shovel.Oak.Acacia.name=Pala de madera
+item.Shovel.Oak.DarkOak.name=Pala de madera
+item.Shovel.Spruce.Oak.name=Pala de madera
+item.Shovel.Spruce.Spruce.name=Pala de madera
+item.Shovel.Spruce.Birch.name=Pala de madera
+item.Shovel.Spruce.Jungle.name=Pala de madera
+item.Shovel.Spruce.Acacia.name=Pala de madera
+item.Shovel.Spruce.DarkOak.name=Pala de madera
+item.Shovel.Birch.Oak.name=Pala de madera
+item.Shovel.Birch.Spruce.name=Pala de madera
+item.Shovel.Birch.Birch.name=Pala de madera
+item.Shovel.Birch.Jungle.name=Pala de madera
+item.Shovel.Birch.Acacia.name=Pala de madera
+item.Shovel.Birch.DarkOak.name=Pala de madera
+item.Shovel.Jungle.Oak.name=Pala de madera
+item.Shovel.Jungle.Spruce.name=Pala de madera
+item.Shovel.Jungle.Birch.name=Pala de madera
+item.Shovel.Jungle.Jungle.name=Pala de madera
+item.Shovel.Jungle.Acacia.name=Pala de madera
+item.Shovel.Jungle.DarkOak.name=Pala de madera
+item.Shovel.Acacia.Oak.name=Pala de madera
+item.Shovel.Acacia.Spruce.name=Pala de madera
+item.Shovel.Acacia.Birch.name=Pala de madera
+item.Shovel.Acacia.Jungle.name=Pala de madera
+item.Shovel.Acacia.Acacia.name=Pala de madera
+item.Shovel.Acacia.DarkOak.name=Pala de madera
+item.Shovel.DarkOak.Oak.name=Pala de madera
+item.Shovel.DarkOak.Spruce.name=Pala de madera
+item.Shovel.DarkOak.Birch.name=Pala de madera
+item.Shovel.DarkOak.Jungle.name=Pala de madera
+item.Shovel.DarkOak.Acacia.name=Pala de madera
+item.Shovel.DarkOak.DarkOak.name=Pala de madera
+
+item.Shovel.Stone.Oak.name=Pala de piedra
+item.Shovel.Stone.Spruce.name=Pala de piedra
+item.Shovel.Stone.Birch.name=Pala de piedra
+item.Shovel.Stone.Jungle.name=Pala de piedra
+item.Shovel.Stone.Acacia.name=Pala de piedra
+item.Shovel.Stone.DarkOak.name=Pala de piedra
+
+item.Shovel.Iron.Oak.name=Pala de hierro
+item.Shovel.Iron.Spruce.name=Pala de hierro
+item.Shovel.Iron.Birch.name=Pala de hierro
+item.Shovel.Iron.Jungle.name=Pala de hierro
+item.Shovel.Iron.Acacia.name=Pala de hierro
+item.Shovel.Iron.DarkOak.name=Pala de hierro
+
+item.Shovel.Gold.Oak.name=Pala de oro
+item.Shovel.Gold.Spruce.name=Pala de oro
+item.Shovel.Gold.Birch.name=Pala de oro
+item.Shovel.Gold.Jungle.name=Pala de oro
+item.Shovel.Gold.Acacia.name=Pala de oro
+item.Shovel.Gold.DarkOak.name=Pala de oro
+
+item.Shovel.Diamond.Oak.name=Pala de diamante
+item.Shovel.Diamond.Spruce.name=Pala de diamante
+item.Shovel.Diamond.Birch.name=Pala de diamante
+item.Shovel.Diamond.Jungle.name=Pala de diamante
+item.Shovel.Diamond.Acacia.name=Pala de diamante
+item.Shovel.Diamond.DarkOak.name=Pala de diamante
+
+// Picos
+
+item.Pickaxe.name=Pico
+
+item.Pickaxe.Wood.name=Pico de madera
+item.Pickaxe.Stone.name=Pico de piedra
+item.Pickaxe.Iron.name=Pico de hierro
+item.Pickaxe.Gold.name=Pico de oro
+item.Pickaxe.Diamond.name=Pico de diamante
+  
+item.Pickaxe.Oak.Oak.name=Pico de madera
+item.Pickaxe.Oak.Spruce.name=Pico de madera
+item.Pickaxe.Oak.Birch.name=Pico de madera
+item.Pickaxe.Oak.Jungle.name=Pico de madera
+item.Pickaxe.Oak.Acacia.name=Pico de madera
+item.Pickaxe.Oak.DarkOak.name=Pico de madera
+item.Pickaxe.Spruce.Oak.name=Pico de madera
+item.Pickaxe.Spruce.Spruce.name=Pico de madera
+item.Pickaxe.Spruce.Birch.name=Pico de madera
+item.Pickaxe.Spruce.Jungle.name=Pico de madera
+item.Pickaxe.Spruce.Acacia.name=Pico de madera
+item.Pickaxe.Spruce.DarkOak.name=Pico de madera
+item.Pickaxe.Birch.Oak.name=Pico de madera
+item.Pickaxe.Birch.Spruce.name=Pico de madera
+item.Pickaxe.Birch.Birch.name=Pico de madera
+item.Pickaxe.Birch.Jungle.name=Pico de madera
+item.Pickaxe.Birch.Acacia.name=Pico de madera
+item.Pickaxe.Birch.DarkOak.name=Pico de madera
+item.Pickaxe.Jungle.Oak.name=Pico de madera
+item.Pickaxe.Jungle.Spruce.name=Pico de madera
+item.Pickaxe.Jungle.Birch.name=Pico de madera
+item.Pickaxe.Jungle.Jungle.name=Pico de madera
+item.Pickaxe.Jungle.Acacia.name=Pico de madera
+item.Pickaxe.Jungle.DarkOak.name=Pico de madera
+item.Pickaxe.Acacia.Oak.name=Pico de madera
+item.Pickaxe.Acacia.Spruce.name=Pico de madera
+item.Pickaxe.Acacia.Birch.name=Pico de madera
+item.Pickaxe.Acacia.Jungle.name=Pico de madera
+item.Pickaxe.Acacia.Acacia.name=Pico de madera
+item.Pickaxe.Acacia.DarkOak.name=Pico de madera
+item.Pickaxe.DarkOak.Oak.name=Pico de madera
+item.Pickaxe.DarkOak.Spruce.name=Pico de madera
+item.Pickaxe.DarkOak.Birch.name=Pico de madera
+item.Pickaxe.DarkOak.Jungle.name=Pico de madera
+item.Pickaxe.DarkOak.Acacia.name=Pico de madera
+item.Pickaxe.DarkOak.DarkOak.name=Pico de madera
+
+item.Pickaxe.Stone.Oak.name=Pico de piedra
+item.Pickaxe.Stone.Spruce.name=Pico de piedra
+item.Pickaxe.Stone.Birch.name=Pico de piedra
+item.Pickaxe.Stone.Jungle.name=Pico de piedra
+item.Pickaxe.Stone.Acacia.name=Pico de piedra
+item.Pickaxe.Stone.DarkOak.name=Pico de piedra
+
+item.Pickaxe.Iron.Oak.name=Pico de hierro
+item.Pickaxe.Iron.Spruce.name=Pico de hierro
+item.Pickaxe.Iron.Birch.name=Pico de hierro
+item.Pickaxe.Iron.Jungle.name=Pico de hierro
+item.Pickaxe.Iron.Acacia.name=Pico de hierro
+item.Pickaxe.Iron.DarkOak.name=Pico de hierro
+
+item.Pickaxe.Gold.Oak.name=Pico de oro
+item.Pickaxe.Gold.Spruce.name=Pico de oro
+item.Pickaxe.Gold.Birch.name=Pico de oro
+item.Pickaxe.Gold.Jungle.name=Pico de oro
+item.Pickaxe.Gold.Acacia.name=Pico de oro
+item.Pickaxe.Gold.DarkOak.name=Pico de oro
+
+item.Pickaxe.Diamond.Oak.name=Pico de diamante
+item.Pickaxe.Diamond.Spruce.name=Pico de diamante
+item.Pickaxe.Diamond.Birch.name=Pico de diamante
+item.Pickaxe.Diamond.Jungle.name=Pico de diamante
+item.Pickaxe.Diamond.Acacia.name=Pico de diamante
+item.Pickaxe.Diamond.DarkOak.name=Pico de diamante
+
+// Hachas
+
+item.Axe.name=Hacha
+
+item.Axe.Wood.name=Hacha de madera
+item.Axe.Stone.name=Hacha de piedra
+item.Axe.Iron.name=Hacha de hierro
+item.Axe.Gold.name=Hacha de oro
+item.Axe.Diamond.name=Hacha de diamante
+  
+item.Axe.Oak.Oak.name=Hacha de madera
+item.Axe.Oak.Spruce.name=Hacha de madera
+item.Axe.Oak.Birch.name=Hacha de madera
+item.Axe.Oak.Jungle.name=Hacha de madera
+item.Axe.Oak.Acacia.name=Hacha de madera
+item.Axe.Oak.DarkOak.name=Hacha de madera
+item.Axe.Spruce.Oak.name=Hacha de madera
+item.Axe.Spruce.Spruce.name=Hacha de madera
+item.Axe.Spruce.Birch.name=Hacha de madera
+item.Axe.Spruce.Jungle.name=Hacha de madera
+item.Axe.Spruce.Acacia.name=Hacha de madera
+item.Axe.Spruce.DarkOak.name=Hacha de madera
+item.Axe.Birch.Oak.name=Hacha de madera
+item.Axe.Birch.Spruce.name=Hacha de madera
+item.Axe.Birch.Birch.name=Hacha de madera
+item.Axe.Birch.Jungle.name=Hacha de madera
+item.Axe.Birch.Acacia.name=Hacha de madera
+item.Axe.Birch.DarkOak.name=Hacha de madera
+item.Axe.Jungle.Oak.name=Hacha de madera
+item.Axe.Jungle.Spruce.name=Hacha de madera
+item.Axe.Jungle.Birch.name=Hacha de madera
+item.Axe.Jungle.Jungle.name=Hacha de madera
+item.Axe.Jungle.Acacia.name=Hacha de madera
+item.Axe.Jungle.DarkOak.name=Hacha de madera
+item.Axe.Acacia.Oak.name=Hacha de madera
+item.Axe.Acacia.Spruce.name=Hacha de madera
+item.Axe.Acacia.Birch.name=Hacha de madera
+item.Axe.Acacia.Jungle.name=Hacha de madera
+item.Axe.Acacia.Acacia.name=Hacha de madera
+item.Axe.Acacia.DarkOak.name=Hacha de madera
+item.Axe.DarkOak.Oak.name=Hacha de madera
+item.Axe.DarkOak.Spruce.name=Hacha de madera
+item.Axe.DarkOak.Birch.name=Hacha de madera
+item.Axe.DarkOak.Jungle.name=Hacha de madera
+item.Axe.DarkOak.Acacia.name=Hacha de madera
+item.Axe.DarkOak.DarkOak.name=Hacha de madera
+
+item.Axe.Stone.Oak.name=Hacha de piedra
+item.Axe.Stone.Spruce.name=Hacha de piedra
+item.Axe.Stone.Birch.name=Hacha de piedra
+item.Axe.Stone.Jungle.name=Hacha de piedra
+item.Axe.Stone.Acacia.name=Hacha de piedra
+item.Axe.Stone.DarkOak.name=Hacha de piedra
+
+item.Axe.Iron.Oak.name=Hacha de hierro
+item.Axe.Iron.Spruce.name=Hacha de hierro
+item.Axe.Iron.Birch.name=Hacha de hierro
+item.Axe.Iron.Jungle.name=Hacha de hierro
+item.Axe.Iron.Acacia.name=Hacha de hierro
+item.Axe.Iron.DarkOak.name=Hacha de hierro
+
+item.Axe.Gold.Oak.name=Hacha de oro
+item.Axe.Gold.Spruce.name=Hacha de oro
+item.Axe.Gold.Birch.name=Hacha de oro
+item.Axe.Gold.Jungle.name=Hacha de oro
+item.Axe.Gold.Acacia.name=Hacha de oro
+item.Axe.Gold.DarkOak.name=Hacha de oro
+
+item.Axe.Diamond.Oak.name=Hacha de diamante
+item.Axe.Diamond.Spruce.name=Hacha de diamante
+item.Axe.Diamond.Birch.name=Hacha de diamante
+item.Axe.Diamond.Jungle.name=Hacha de diamante
+item.Axe.Diamond.Acacia.name=Hacha de diamante
+item.Axe.Diamond.DarkOak.name=Hacha de diamante
+
+// Azadas
+
+item.Hoe.name=Azada
+
+item.Hoe.Wood.name=Azada de madera
+item.Hoe.Stone.name=Azada de piedra
+item.Hoe.Iron.name=Azada de hierro
+item.Hoe.Gold.name=Azada de oro
+item.Hoe.Diamond.name=Azada de diamante
+  
+item.Hoe.Oak.Oak.name=Azada de madera
+item.Hoe.Oak.Spruce.name=Azada de madera
+item.Hoe.Oak.Birch.name=Azada de madera
+item.Hoe.Oak.Jungle.name=Azada de madera
+item.Hoe.Oak.Acacia.name=Azada de madera
+item.Hoe.Oak.DarkOak.name=Azada de madera
+item.Hoe.Spruce.Oak.name=Azada de madera
+item.Hoe.Spruce.Spruce.name=Azada de madera
+item.Hoe.Spruce.Birch.name=Azada de madera
+item.Hoe.Spruce.Jungle.name=Azada de madera
+item.Hoe.Spruce.Acacia.name=Azada de madera
+item.Hoe.Spruce.DarkOak.name=Azada de madera
+item.Hoe.Birch.Oak.name=Azada de madera
+item.Hoe.Birch.Spruce.name=Azada de madera
+item.Hoe.Birch.Birch.name=Azada de madera
+item.Hoe.Birch.Jungle.name=Azada de madera
+item.Hoe.Birch.Acacia.name=Azada de madera
+item.Hoe.Birch.DarkOak.name=Azada de madera
+item.Hoe.Jungle.Oak.name=Azada de madera
+item.Hoe.Jungle.Spruce.name=Azada de madera
+item.Hoe.Jungle.Birch.name=Azada de madera
+item.Hoe.Jungle.Jungle.name=Azada de madera
+item.Hoe.Jungle.Acacia.name=Azada de madera
+item.Hoe.Jungle.DarkOak.name=Azada de madera
+item.Hoe.Acacia.Oak.name=Azada de madera
+item.Hoe.Acacia.Spruce.name=Azada de madera
+item.Hoe.Acacia.Birch.name=Azada de madera
+item.Hoe.Acacia.Jungle.name=Azada de madera
+item.Hoe.Acacia.Acacia.name=Azada de madera
+item.Hoe.Acacia.DarkOak.name=Azada de madera
+item.Hoe.DarkOak.Oak.name=Azada de madera
+item.Hoe.DarkOak.Spruce.name=Azada de madera
+item.Hoe.DarkOak.Birch.name=Azada de madera
+item.Hoe.DarkOak.Jungle.name=Azada de madera
+item.Hoe.DarkOak.Acacia.name=Azada de madera
+item.Hoe.DarkOak.DarkOak.name=Azada de madera
+
+item.Hoe.Stone.Oak.name=Azada de piedra
+item.Hoe.Stone.Spruce.name=Azada de piedra
+item.Hoe.Stone.Birch.name=Azada de piedra
+item.Hoe.Stone.Jungle.name=Azada de piedra
+item.Hoe.Stone.Acacia.name=Azada de piedra
+item.Hoe.Stone.DarkOak.name=Azada de piedra
+
+item.Hoe.Iron.Oak.name=Azada de hierro
+item.Hoe.Iron.Spruce.name=Azada de hierro
+item.Hoe.Iron.Birch.name=Azada de hierro
+item.Hoe.Iron.Jungle.name=Azada de hierro
+item.Hoe.Iron.Acacia.name=Azada de hierro
+item.Hoe.Iron.DarkOak.name=Azada de hierro
+
+item.Hoe.Gold.Oak.name=Azada de oro
+item.Hoe.Gold.Spruce.name=Azada de oro
+item.Hoe.Gold.Birch.name=Azada de oro
+item.Hoe.Gold.Jungle.name=Azada de oro
+item.Hoe.Gold.Acacia.name=Azada de oro
+item.Hoe.Gold.DarkOak.name=Azada de oro
+
+item.Hoe.Diamond.Oak.name=Azada de diamante
+item.Hoe.Diamond.Spruce.name=Azada de diamante
+item.Hoe.Diamond.Birch.name=Azada de diamante
+item.Hoe.Diamond.Jungle.name=Azada de diamante
+item.Hoe.Diamond.Acacia.name=Azada de diamante
+item.Hoe.Diamond.DarkOak.name=Azada de diamante
+
+// Bows
+
+item.Bow.name=Arco
+
+item.Bow.Oak.name=Arco de madera de roble
+item.Bow.Spruce.name=Arco de madera de abeto
+item.Bow.Birch.name=Arco de madera de abedul
+item.Bow.Jungle.name=Arco de madera de la selva
+item.Bow.Acacia.name=Arco de madera de acacia
+item.Bow.DarkOak.name=Arco de madera de roble oscuro
+
+// Lore
+
+lore.head.sword=Hoja
+lore.handle.sword=Empuñadura
+lore.head.shovel=Cabeza
+lore.handle.shovel=Mango
+lore.head.pickaxe=Cabeza
+lore.handle.pickaxe=Mango
+lore.head.axe=Cabeza
+lore.handle.axe=Mango
+lore.head.hoe=Cabeza
+lore.handle.hoe=Mango
+
+lore.oak=Madera de roble
+lore.spruce=Madera de abeto
+lore.birch=Madera de abedul
+lore.jungle=Madera de la selva
+lore.acacia=Maderas de acacia
+lore.darkOak=Madera de roble oscuro
+lore.stone=Piedra
+lore.iron=Hierro
+lore.gold=Oro
+lore.diamond=Diamante
+
+lore.material=Material
+lore.material.bowl=Material del cuenco
