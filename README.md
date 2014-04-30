@@ -7,7 +7,7 @@ Better Wood Mod
 - [Official Wiki](https://github.com/SackCastellon/BetterWood/wiki) (Under Construction)
 - [Issue Tracking System](https://github.com/SackCastellon/BetterWood/issues)
 - [Source Code](https://github.com/SackCastellon/BetterWood)
-- [Language Files](https://github.com/SackCastellon/BetterWood/tree/master/assets/betterwood/lang) (For anyone who wants to translate the mod to his own language.)
+- [Language Files](https://github.com/SackCastellon/BetterWood/tree/master/resources/assets/betterwood/lang) (For anyone who wants to translate the mod to his own language.)
 
 * * *
 
